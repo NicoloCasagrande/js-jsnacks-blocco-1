@@ -10,3 +10,4 @@ if(firstWord.length === secondWord.length){
 }else{
     console.log(secondWord, firstWord);
 }
+
